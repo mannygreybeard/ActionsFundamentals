@@ -2,7 +2,7 @@
 
 Repo for the `GitHub Actions Fundamentals` training.
 
-boop
+boop 2
 
 ## 👉 Objectives
 
